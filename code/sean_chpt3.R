@@ -68,3 +68,8 @@ head(samples)
 library(rethinking)
 dens( samples )
 
+# R code 3.3
+
+
+# 3.2.1. Intervals of defined boundaries. 
+
